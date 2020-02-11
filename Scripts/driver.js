@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
     dotColor: '#00818a',
     lineColor: '#00818a'
   });
-  var intro = document.getElementById('intro');
-  intro.style.marginTop = - intro.offsetHeight / 2 + 'px';
+  var start = document.getElementById('start');
+  start.style.marginTop = - start.offsetHeight / 2 + 'px';
 }, false);
 
